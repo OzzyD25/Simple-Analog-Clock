@@ -1,4 +1,4 @@
 # Simple-Analog-Clock
 Javascript-powered analog clock
 
-Clone & open index.html -> enjoy :) 
+Download & Open index.html -> enjoy :) 
